@@ -2,3 +2,7 @@
 This workshop organized by Mawlana Bhashani Science and Technology University(MBSTU). 
 
 ![ML_Workshop_2021_banner](Images/ML_workshop_2021.jpg)
+
+# Certificate for Workshop
+
+![Certificate as an invited guest](Images/harun-ur-rashid.jpg)
